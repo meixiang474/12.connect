@@ -1,0 +1,2 @@
+export const CALL_HISTORY_METHOD = '@@router/CALL_HISTORY_METHOD'
+export const LOACTION_CHANGE = '@@router/LOACTION_CHANGE'
